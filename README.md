@@ -1,10 +1,10 @@
-# Определение успешных компьютерных игр на следующий год
+# Definition of successful computer games for the next year
 
-Этот репозиторий нужен для определения какую рекламу нужно запускать в каком из регионов. И какие игры будут популярны в следующем году
+This repository is needed to determine which ads to run in which regions. And what games will be popular next year
 
-## Описания проекта
+## Project descriptions
 
 
-| Название проекта | Описание | Используемые библиотеки | 
-| :---------------------- | :---------------------- | :---------------------- |
-| [Определение успешных компьютерных игр на следующий год](https://github.com/limenbah/computer-games/tree/main/computer-games) | Сравнение разных показателй, отзывов и платформ для вычесления какие игры будут популярны в следующем году | *pandas, functools, matplotlib, numpy, seaborn, scipy* |
+| Project name | Description | Used Libraries |
+| :--------------------- | :--------------------- | :--------------------- |
+| [Defining Successful Computer Games for the Next Year](https://github.com/limenbah/computer-games/tree/main/computer-games) | Comparison of different indicators, reviews and platforms to calculate what games will be popular next year | *pandas, functools, matplotlib, numpy, seaborn, scipy* |
